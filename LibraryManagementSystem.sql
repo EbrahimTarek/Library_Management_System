@@ -1,4 +1,4 @@
--- Create database with file group
+## Create database with file group
 CREATE DATABASE [LibraryManagement]
 CONTAINMENT = NONE
 ON  PRIMARY 
